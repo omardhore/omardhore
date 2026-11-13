@@ -14,7 +14,7 @@ My work combines software engineering, quality assurance, and product developmen
 - Experienced in mobile and web application testing.
 - Mobile App Development
 - Co-founder at HornTech Ltd
-- Founder Saafi Books
+- Founder at Saafi Books
 - Building and contributing to business software and SaaS products.
 
 ## 🛠️ Technology Stack
